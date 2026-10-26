@@ -1,0 +1,10 @@
+{
+  "name": "HTML Maker — AI Interactive HTML Studio",
+  "short_name": "HTML Maker",
+  "description": "Create interactive educational HTML with AI, templates and one-file export.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e3a8a",
+  "theme_color": "#1e3a8a",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
